@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 1.1 Cracking The Code
+ */
 public class UniqueCharactersString {
 	public static int CHAR_SPACE = 256;
 	
