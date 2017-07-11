@@ -1,4 +1,4 @@
-#if true
+#if false
 #include "reverse_char.h"
 
 int main() {
