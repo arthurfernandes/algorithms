@@ -1,7 +1,5 @@
 package linked_lists;
 
-import linked_lists.PartitionLinkedListX.LinkedList;
-
 /*
  * Cracking the Code LinkedLists 
  * 2.5
@@ -44,6 +42,8 @@ public class LinkedListIntegerAddition {
 		}
 	}
 	
+	
+	
 	public static LinkedList addReverseOrder(LinkedList l1, LinkedList l2) {
 		if(l1 == null || l2 == null)
 			return null;
@@ -84,5 +84,4 @@ public class LinkedListIntegerAddition {
 		
 		return head;
 	}
-	
 }
