@@ -37,10 +37,10 @@ public class Stack<T>{
 		}
 	}
 	
-	public static class Node<T> {
-		public T data;
-		public Node<T> next;
-		public Node(T data) {
+	static class Node<T> {
+		T data;
+		Node<T> next;
+		Node(T data) {
 			this.data = data;
 			this.next = null;
 		}
