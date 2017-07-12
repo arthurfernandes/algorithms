@@ -1,9 +1,9 @@
 package stacks_queues;
 
-public class Stack<T>{
+public class CustomStack<T>{
 	private Node<T> top;
 	
-	public Stack() {
+	public CustomStack() {
 		top = null;
 	}
 	

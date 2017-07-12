@@ -5,7 +5,7 @@ public class TestCustomStackQueue {
 	public static void main(String[] args) {
 		//Test Stack
 		System.out.println("Test Stack\n");
-		Stack<Integer> st = new Stack<>();
+		CustomStack<Integer> st = new CustomStack<>();
 		st.push(1);
 		System.out.println(st.pop());
 		st.push(2);
