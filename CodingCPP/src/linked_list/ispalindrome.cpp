@@ -1,6 +1,9 @@
 /*
  * Cracking the Code Linked Lists exercise 2.7 using the recursive approach
  */
+
+#if false
+
 #ifndef NULL
 #define NULL ((void*) 0)
 #endif
@@ -100,4 +103,5 @@ int main() {
 
 }
 
+#endif
 

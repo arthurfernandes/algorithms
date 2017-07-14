@@ -1,5 +1,7 @@
 //https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/little-monk-and-balanced-parentheses/
 
+#if false
+
 #include <iostream>
 #include <stack>
 #include <algorithm>
@@ -88,4 +90,6 @@ int main()
     int ans = longest_subarray(N);
     cout << ans << endl;
 }
+
+#endif
 
