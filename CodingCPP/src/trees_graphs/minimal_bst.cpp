@@ -5,7 +5,7 @@
  *  Cracking the Code 4.3
  */
 
-
+#if false
 #ifndef NULL
 #define NULL ((void*) 0)
 #endif
@@ -59,3 +59,4 @@ int main(){
 
 
 
+#endif
