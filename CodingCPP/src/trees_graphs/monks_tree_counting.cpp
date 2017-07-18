@@ -3,6 +3,7 @@
  * https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/tree-counting-3/description/
  * Brute force solution in O(N^3) because N < 500
  */
+#if false
 
 #include <iostream>
 using namespace std;
@@ -58,6 +59,6 @@ int main()
     cout << count/2 << endl;
 }
 
-
+#endif
 
 
