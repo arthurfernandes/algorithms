@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 import java.util.StringTokenizer;
 
-class PrintPreOrderOfK {
+class PrintPreOrderK {
     public static class TreeNode {
         public int data;
         public TreeNode left, right;
