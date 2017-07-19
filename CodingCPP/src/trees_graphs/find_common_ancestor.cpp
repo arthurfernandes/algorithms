@@ -2,6 +2,8 @@
  * Crackign the Code 4.7 Find Common Ancestor of Binary Tree
  */
 
+#if false
+
 #ifndef NULL
 #define NULL ((void *) 0)
 #endif
@@ -75,5 +77,5 @@ int main() {
 }
 
 
-
+#endif
 
